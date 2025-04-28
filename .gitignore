@@ -1,0 +1,16 @@
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de entorno (en caso de usarlos más adelante)
+.env
+*.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
